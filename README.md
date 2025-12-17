@@ -10,7 +10,7 @@ algorithm is best suited.
 
 ---
 
-## 📌 What’s inside this repository
+## What’s inside this repository
 
 The projects are organized in a step-by-step manner, starting from basic
 Python tools used in Machine Learning and gradually moving towards more
@@ -37,7 +37,7 @@ learning and experimentation, not just implementation.
 
 ---
 
-## 🛠 Tools and Technologies Used
+## Tools and Technologies Used
 
 - Python
 - NumPy
@@ -48,7 +48,7 @@ learning and experimentation, not just implementation.
 
 ---
 
-## 🎯 Why I built this
+## Why I built this
 
 - To strengthen my fundamentals in Machine Learning
 - To gain hands-on experience with core ML algorithms
@@ -57,6 +57,4 @@ learning and experimentation, not just implementation.
 
 ---
 
-## 👤 Author
-
-**Rudra Sanandiya**
+*Created by **Rudra Sanandiya** .*
